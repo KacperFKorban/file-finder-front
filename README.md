@@ -1,5 +1,11 @@
 # FileFinder frontend draft
 
+## Demo
+
+![Peek 2021-03-21 18-47](https://user-images.githubusercontent.com/39772805/111915339-0172b200-8a76-11eb-9521-08ff2c35d4cd.gif)
+
+## Other stuff
+
 To start app run `make start`
 To start mock server run `make mock_server`
 
